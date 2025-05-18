@@ -10,4 +10,4 @@ The user has to enter a number and it will tell whether the number is Odd or Eve
 
 # Task-2
 This code tells the sum of numbers from 1 to 50 
-For loop is used 
+- For loop is used 
